@@ -89,11 +89,11 @@ Managing official club communications, maintaining membership records, coordinat
 
 | Repository | Description | Topics |
 |---|---|---|
-| [🛡️ Cybersecurity Incident Analysis](../cybersecurity-incident-analysis) | Incident analysis briefs, security awareness case studies & government security training | Incident Response, CYB-200 |
-| [🌐 Network Design Project](../network-design-project) | Secure network design with IP addressing, subnetting & firewall config | Networking, Security |
-| [🔒 OS Security Hardening](../os-security-hardening) | OS hardening, Active Directory, backup automation & network security planning | Windows Server, CYB-230 |
-| [🐍 Python Text Game](../python-text-game) | Fully functional text-based adventure game built in Python | Python, Scripting |
-| [🗄️ SQL Database Projects](../sql-database-projects) | Relational database design, queries & data analysis with MySQL | SQL, Data Analytics |
+| [🛡️ Cybersecurity Incident Analysis](https://github.com/LiviaGWard/cybersecurity-incident-analysis) | Incident analysis briefs, security awareness case studies & government security training | Incident Response, CYB-200 |
+| [🌐 Network Design Project](https://github.com/LiviaGWard/network-design-project) | Secure network design with IP addressing, subnetting & firewall config | Networking, Security |
+| [🔒 OS Security Hardening](https://github.com/LiviaGWard/os-security-hardening-cyb230) | OS hardening, Active Directory, backup automation & network security planning | Windows Server, CYB-230 |
+| [🐍 Python Text Game](https://github.com/LiviaGWard/python-text-game-it140) | Fully functional text-based adventure game built in Python | Python, Scripting |
+| [🗄️ SQL Database Projects](https://github.com/LiviaGWard/sql-database-projects-dad220) | Relational database design, queries & data analysis with MySQL | SQL, Data Analytics |
 
 ---
 
