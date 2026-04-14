@@ -2,7 +2,7 @@
 
 > *Cybersecurity student | Career reinventor | Lifelong learner*
 
-I made a bold decision to completely reimagine my career and dive into the world of cybersecurity — and I haven't looked back. I'm currently finishing my **B.S. in Cybersecurity** at Southern New Hampshire University (GPA: 3.989, President's List × 6, Honor Roll × 14), with a concentration in **Data Analytics** and a minor in **Information Technology**, graduating July 2026.
+I made a bold decision to completely reimagine my career and dive into the world of cybersecurity, and I haven't looked back. I'm currently finishing my **B.S. in Cybersecurity** at Southern New Hampshire University (GPA: 3.989, President's List × 6, Honor Roll × 14), with a concentration in **Data Analytics** and a minor in **Information Technology**, graduating July 2026.
 
 This GitHub is where I document my learning journey — real projects from real coursework, hands-on labs, and self-driven exploration in security operations, networking, incident response, and data.
 
