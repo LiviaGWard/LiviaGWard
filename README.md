@@ -2,7 +2,7 @@
 
 > *Cybersecurity student | Career reinventor | Lifelong learner*
 
-I made a bold decision to completely reimagine my career and dive into the world of cybersecurity, and I haven't looked back. I'm currently finishing my **B.S. in Cybersecurity** at Southern New Hampshire University (GPA: 3.989, President's List × 6, Honor Roll × 14), with a concentration in **Data Analytics** and a minor in **Information Technology**, graduating July 2026.
+I made a bold decision to completely reimagine my career and dive into the world of cybersecurity — and I haven't looked back. I'm currently finishing my **B.S. in Cybersecurity** at Southern New Hampshire University (GPA: 3.989, President's List × 6, Honor Roll × 14), with a concentration in **Data Analytics** and a minor in **Information Technology**, graduating July 2026.
 
 This GitHub is where I document my learning journey — real projects from real coursework, hands-on labs, and self-driven exploration in security operations, networking, incident response, and data.
 
@@ -18,6 +18,15 @@ This GitHub is where I document my learning journey — real projects from real 
 ## 💼 Experience
 **IT Intern @ Blackmore Partners Inc.** *(Jan 2026 – Present)*
 Working in a small, fast-paced team with real responsibility across user access management, workflow automation, CRM operations, and IT system support.
+
+---
+
+## 🎙️ Leadership
+**President — Multicultural STEM Club @ SNHU** *(Apr 2025 – Present)*
+Leading and growing a university club focused on diversity in STEM. Grew active membership to **140+ students** through targeted programming and community initiatives. Directing meetings, setting strategic goals, and maintaining communication with stakeholders and the executive board.
+
+**Secretary — Cyber SNHUpers Cybersecurity Club @ SNHU** *(Jun 2025 – Present)*
+Managing official club communications, maintaining membership records, coordinating meetings, preparing agendas, and ensuring consistent and timely follow-up across the club.
 
 ---
 
